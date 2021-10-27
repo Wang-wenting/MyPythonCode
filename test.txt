@@ -1,2 +1,2 @@
 this is a test file
-test feature 2
+test feature2
